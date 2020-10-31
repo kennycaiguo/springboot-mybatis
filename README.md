@@ -10,3 +10,4 @@
 # <a href="https://gitee.com/mao-xu/SpringBoot_supermarket1">SpringBoot_supermarket1</a>
 # <a href="https://gitee.com/zscat/mallplus">    北京zscat科技有限公司 / mallplus+商城+APP+SaaS+uniapp+wechat
 </a>
+# <a href="https://juejin.im/post/6844903966556291080">GitHub中文排行榜-JAVA</a>
