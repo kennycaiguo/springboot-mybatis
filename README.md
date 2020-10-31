@@ -13,3 +13,5 @@
 # <a href="https://juejin.im/post/6844903966556291080">GitHub中文排行榜-JAVA</a>
 # <a href="https://www.hellojava.com/a/83824.html">15 个优秀开源的 Spring Boot 学习项目</a>
 # <a href="https://jishuin.proginn.com/p/763bfbd245e5">GitHub开源的8个 Spring Boot 项目 (附源码)</a>
+# <a href="https://www.jianshu.com/p/b1321cd6edf3">2020年排名前20的基于SpringBoot搭建的开源项目，帮你快速进行项目搭建！
+</a>
