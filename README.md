@@ -7,3 +7,4 @@
 # <a href="https://github.com/kennycaiguo/mall-learning">mall学习教程，架构、业务、技术要点全方位解析,涵盖springboot，mybatis，rabbitmq。。。</a>
 # <a href="https://github.com/kennycaiguo/newbee-mall">newbee-mall 项目（新蜂商城）是一套电商系统</a>
 # <a href="https://gitee.com/jishenghua/JSH_ERP/tree/master/erp_web">华夏ERP</a>
+# <a hred="https://gitee.com/mao-xu/SpringBoot_supermarket1">SpringBoot_supermarket1</a>
